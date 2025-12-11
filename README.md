@@ -131,7 +131,7 @@ From *Results before augmentation.pdf*:
 - **Naive Bayes:** 0.826  
 - **Decision Tree:** 0.841  
 
-Confusion matrices (page 2) show strong performance for Random Forest. :contentReference[oaicite:1]{index=1}
+Confusion matrices (page 2) show strong performance for Random Forest.
 
 ---
 
@@ -146,7 +146,7 @@ From *Results after augmentation.pdf*:
 SVM and Decision Tree improved slightly.  
 Naive Bayes decreased in accuracy due to noise sensitivity.  
 Random Forest remained the strongest performer (0.885).  
-See confusion matrices on page 2. :contentReference[oaicite:2]{index=2}
+See confusion matrices on page 2.
 
 ---
 
